@@ -12,7 +12,7 @@ https://arxiv.org/abs/1808.08778.
 
 We list the file usage to reproduce all results in this project:
 
-* ```jasa_figure1.R```: reproducing Figure 1 showing a solution in the Lorenz attractor plotted in 3D. 
+* ```jasa_figure1.py```: reproducing Figure 1 showing a solution in the Lorenz attractor plotted in 3D. 
 
 * ```jasa_figure2.R```: reproducing Figure 2 showing trends in per-capita cigarette sales. 
 
