@@ -10,8 +10,7 @@ https://arxiv.org/abs/1808.08778.
 
 ## Code usage
 
-There are several terms/keywords defined in this project.
-To clarify, we use the terms as follows:
+We list the file usage to reproduce all results in this project:
 
 * ```jasa_figure1.R```: reproducing Figure 1 showing a solution in the Lorenz attractor plotted in 3D. 
 
