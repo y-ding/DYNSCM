@@ -3,9 +3,7 @@
 ## Research paper
 This is the accompanying code implementation of the methods and algorithms presented
 ```
-Yi Ding, Panos Toulis,
-"Dynamical systems theory for causal inference with application to synthetic control methods", 
-https://arxiv.org/abs/1808.08778.
+Yi Ding, Panos Toulis, "Dynamical systems theory for causal inference with application to synthetic control methods", https://arxiv.org/abs/1808.08778.
 ```
 
 ## Code usage
@@ -45,6 +43,10 @@ To clarify, we use the terms as follows:
 * ```ccm_function.R```: main codes including CCM algorithms.
 
 * ```grid_function.R```: auxiliary codes for plotting.
+
+## License 
+
+DYNSCM is shared under the terms of the [The MIT License](https://opensource.org/licenses/MIT). The copyright to DYNSCM is retained by the author, Yi Ding, and the author reserve the right to separately license the code, in part or in whole, to commercial entities.
 
 
 
